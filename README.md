@@ -1,2 +1,2 @@
 # Swift Note
-[Progressbar](progressbar.md)
+[Progressbar](progressbar/progressbar.md)

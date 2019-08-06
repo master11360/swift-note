@@ -1,2 +1,2 @@
-# swift-note
+# Swift Note
 [Progressbar](progressbar.md)

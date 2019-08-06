@@ -1,5 +1,0 @@
-Determinate
-===========
-- Bar<br />
-
-- Circle
